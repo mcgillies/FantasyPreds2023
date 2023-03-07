@@ -9,5 +9,5 @@ The pitcher projections will consist of training a regression model to predict t
 
 
 #### Team Factor
-##### Batters:
+##### Batters [here](TeamFactor.ipnyb):
 Data from baseball savant and razzball is used to calculate "Team factor". Team factor consists of the average fantasy points per game for each team from 2022 standardized to a normal distribution. Abnormalities in the usual standardization of a Normal(0,1) distribution are in place in order to prevent extreme transformation on the final prediction, as the standard deviation is decreased significantly and the mean is centered at 1. Team factor is simply meant to allow for a slight influence on the team (surrounding players and park) that each player is on for the final predictions. Changes to the Blue Jays, Tigers and Mets ballpark dimensions are accounted for with an approximate estimate on how these changes will impact offensive production.
