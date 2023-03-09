@@ -1,5 +1,6 @@
 # FantasyPreds2023
 MLB fantasy predictions for the 2023 season
+Note: These rankings should not be used exactly to draft your team, but to identify players that are over/under ranked on your respective draft site. These rankings more identify the upside of players, as they are heavily favoured towards advanced metrics and batted ball data. For example, Matt Chapman should never be drafted #9 overall, however this indicates he has potential to outperform his ADP by a significant amount. 
 # Full Rankings [here](FantasyBaseball2023Rankings.csv)
 ## Batter Rankings [here](HitterRankings.csv)
 ## Pitcher Rankings [here](PitcherRankings.csv)
