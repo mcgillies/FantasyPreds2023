@@ -1,5 +1,6 @@
 # FantasyPreds2023
 MLB fantasy predictions for the 2023 season
+# Full Rankings [here](2023FantasyBaseballRankings.csv)
 ## Batter Rankings [here](HitterRankings.csv)
 ## Pitcher Rankings [here](PitcherRankings.csv)
 
